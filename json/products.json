@@ -1,0 +1,54 @@
+[
+    {
+        "pid": 1,
+        "title": "Detergente liquido",
+        "description": "Fabuloso",
+        "code": "MXN09",
+        "price": 100.58,
+        "status": true,
+        "stock": 10,
+        "category": "Limpiadores",
+        "thumbnails": [
+            "img/foto01.jpg",
+            "img/foto02.jpg",
+            "img/foto03.jpg",
+            "img/foto04.jpg"
+        ]
+    },
+    {
+        "pid": 2,
+        "title": "Detergente en Polvo",
+        "description": "Foca",
+        "code": "MXN08",
+        "price": 87.62,
+        "status": true,
+        "stock": 140,
+        "category": "Limpiadores",
+        "thumbnails": [
+            "img/foto01.jpg",
+            "img/foto02.jpg"
+        ]
+    },
+    {
+        "pid": 3,
+        "title": "Detergente liquido",
+        "description": "Mas Color",
+        "code": "MXN17",
+        "price": 180.58,
+        "status": true,
+        "stock": 169,
+        "category": "Limpiadores",
+        "thumbnails": null
+    },
+    {
+        "pid": 4,
+        "title": "Suavizante de Telas",
+        "description": "Suavitel",
+        "code": "MXN21",
+        "price": 210.93,
+        "status": true,
+        "stock": 693,
+        "category": "Telas",
+        "thumbnails": null
+    }
+]

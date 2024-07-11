@@ -1,0 +1,16 @@
+{
+  "name": "backend-e01",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0"
+  }
+}
